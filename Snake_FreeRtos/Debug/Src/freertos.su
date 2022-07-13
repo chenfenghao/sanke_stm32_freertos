@@ -1,0 +1,10 @@
+freertos.c:219:6:APP_LCD_SHOW	32	static
+freertos.c:289:6:APP_KEY_SCAN	32	static
+freertos.c:375:6:APP_Rule_judgment	8	static
+freertos.c:405:6:APP_Game_Over	56	static
+freertos.c:696:6:StartTask08	32	static
+freertos.c:760:6:APP_author	24	static
+freertos.c:560:6:APP_Setting	40	static
+freertos.c:461:6:APP_Game_Start	64	static
+freertos.c:675:6:APP_blink	8	static
+freertos.c:98:6:MX_FREERTOS_Init	392	static
